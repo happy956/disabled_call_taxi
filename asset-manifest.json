@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/disabled_call_taxi/static/css/main.2d60cc01.css",
-    "main.js": "/disabled_call_taxi/static/js/main.0f239129.js",
+    "main.css": "/disabled_call_taxi/static/css/main.3dd2d937.css",
+    "main.js": "/disabled_call_taxi/static/js/main.12783c28.js",
     "static/js/483.c60fec1e.chunk.js": "/disabled_call_taxi/static/js/483.c60fec1e.chunk.js",
+    "static/media/legend.png": "/disabled_call_taxi/static/media/legend.9f8e034e8317eb464f54.png",
     "service-worker.js": "/disabled_call_taxi/service-worker.js",
     "index.html": "/disabled_call_taxi/index.html",
-    "main.2d60cc01.css.map": "/disabled_call_taxi/static/css/main.2d60cc01.css.map",
-    "main.0f239129.js.map": "/disabled_call_taxi/static/js/main.0f239129.js.map",
+    "main.3dd2d937.css.map": "/disabled_call_taxi/static/css/main.3dd2d937.css.map",
+    "main.12783c28.js.map": "/disabled_call_taxi/static/js/main.12783c28.js.map",
     "483.c60fec1e.chunk.js.map": "/disabled_call_taxi/static/js/483.c60fec1e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d60cc01.css",
-    "static/js/main.0f239129.js"
+    "static/css/main.3dd2d937.css",
+    "static/js/main.12783c28.js"
   ]
 }
